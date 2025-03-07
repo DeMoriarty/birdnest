@@ -18,7 +18,12 @@ BirdnNest
 
 Open CMD.exe
 ```bash
-git clone 
+git clone https://github.com/DeMoriarty/birdnest.git
 cd birdnest
 pip install -r requirements.txt
+```
+
+# Usage
+```bash
+python app.py
 ```
