@@ -16,7 +16,7 @@ BirdnNest
 
 ### 4. install dependencies
 
-Open CMD.exe
+Open CMD.exe in your target destination
 ```bash
 git clone https://github.com/DeMoriarty/birdnest.git
 cd birdnest
